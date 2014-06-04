@@ -6,7 +6,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = "SIScrollingBackground"
-  s.version          = "0.0.2"
+  s.version          = "0.0.3"
   s.summary          = "Add infinetly scrolling background with ease."
   s.homepage         = "https://github.com/cotkjaer/SIScrollingBackground.git"
  # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
